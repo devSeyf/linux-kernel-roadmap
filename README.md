@@ -53,3 +53,17 @@ To understand how applications and the kernel itself work, you need to learn C â
 [Projects and Sites Using C](https://www.youtube.com/watch?v=CPVtIXgdlLA)
 
 ---
+
+ 
+
+##  Step 3: Operating System
+
+I need to understand operating systems theoretically
+
+ **Operating Systems â€“ Ahmed Sallam**  
+[View the Course ](https://www.youtube.com/watch?v=NkOXBrHbqSs&list=PLMm8EjqH1EFV-jECqtMxeVMDoVkV_kJDY)
+
+ **Book Operating System Concepts**  
+[Abraham Silberschatz-Operating System Concepts](https://drive.uqu.edu.sa/_/mskhayat/files/MySubjects/2017SS%20Operating%20Systems/Abraham%20Silberschatz-Operating%20System%20Concepts%20(9th,2012_12).pdf)
+
+---
