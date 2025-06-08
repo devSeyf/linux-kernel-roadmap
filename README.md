@@ -67,3 +67,23 @@ I need to understand operating systems theoretically
 [Abraham Silberschatz-Operating System Concepts](https://drive.uqu.edu.sa/_/mskhayat/files/MySubjects/2017SS%20Operating%20Systems/Abraham%20Silberschatz-Operating%20System%20Concepts%20(9th,2012_12).pdf)
 
 ---
+##  Step 4: Assembly Language 
+
+You need to learn the assembly language to understand the applications included in the system.
+
+ **Assembly Language Course – Ahmed Sallam**  
+[View the Course ](https://www.youtube.com/playlist?list=PLMm8EjqH1EFVodghdDWaAuHkHqj-nJ0bN)
+
+ **Professional Assembly Language Book**  
+[Professional Assembly Language Book](https://www.amazon.com/Professional-Assembly-Language-Richard-Blum/dp/0764579010)
+
+
+##  Step 5: Type your operating syste
+
+You need to study and create your own simple operating system.
+
+ **AWrite your own Operating System**  
+[View the Course ](https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M)
+
+ **A great person writing an operating system learns**  
+[Queso Fuego](https://www.youtube.com/playlist?list=PLT7NbkyNWaqajsw8Xh7SP9KJwjfpP8TNX)
