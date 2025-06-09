@@ -77,7 +77,7 @@ You need to learn the assembly language to understand the applications included 
  **Professional Assembly Language Book**  
 [Professional Assembly Language Book](https://www.amazon.com/Professional-Assembly-Language-Richard-Blum/dp/0764579010)
 
-
+---
 ##  Step 5: Type your operating syste
 
 You need to study and create your own simple operating system.
@@ -87,3 +87,32 @@ You need to study and create your own simple operating system.
 
  **A great person writing an operating system learns**  
 [Queso Fuego](https://www.youtube.com/playlist?list=PLT7NbkyNWaqajsw8Xh7SP9KJwjfpP8TNX)
+ 
+ 
+ **Professional community recommends reading here**  
+[osdev](https://wiki.osdev.org/Expanded_Main_Page)
+
+---
+
+##  Step 6: Modify Linux kernel code
+
+You should learn to modify Linux kernel code.
+
+ **The Kernelnewbies Archives**  
+[ ](https://lists.kernelnewbies.org/pipermail/kernelnewbies/)
+ **Writing Models**  
+[ Linux Device Drivers, Third Edition](https://lwn.net/Kernel/LDD3/)
+ **Learn Linux practically**  
+[Linux Kernel Development](https://www.amazon.com/Linux-Kernel-Development-Robert-Love/dp/0672329468)
+ **Follow Robert Love's questions**  
+[Robert Love](https://www.quora.com/profile/Robert-Love-1)
+ **Old but useful resource for writing kernels**  
+[ The Linux Kernel Module Programming Guide](https://tldp.org/LDP/lkmpg/2.6/html/index.html)
+
+
+---
+##  Step 7: Challenges in the kernel
+
+Participants are given a series of tasks of increasing difficulty related to core development.
+ **The Eudyptula Challenge**  
+[ The Eudyptula Challenge](http://eudyptula-challenge.org/)
