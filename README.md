@@ -16,6 +16,8 @@ If you're just getting started, here are some beginner-friendly videos in Arabic
 - [CAT Live: Understanding Linux Kernel (Arabic)](https://www.youtube.com/watch?v=NhNUXMLstRg)
 - [CAT Live: Linux Kernel Modules (Arabic)](https://www.youtube.com/watch?v=bDnq792OsQg)
 - [Motivational Video for Getting Started](https://www.youtube.com/watch?v=JVdH_78oS50)
+- [The Panel Discussion "Egypt Better Future : Search for the Young Talents " CSCAMP 2015](https://www.youtube.com/watch?v=lvkjvPllwZw)  
+- [Computer Science Tips](https://www.youtube.com/playlist?list=PLJpb_xuKcFoseuYoWiYyFwauw4VpE70LF)
 
 ---
 
@@ -39,6 +41,11 @@ You can start with **any Linux distribution** — Debian, Arch, Ubuntu, or Linux
 
  **Watch this next:**  
 [Linux System Administration (Playlist)](https://www.youtube.com/playlist?list=PLy1Fx2HfcmWBpD_PI4AQpjeDK5-5q6TG7)
+
+
+ **Watch this next:**  
+[Learn Linux (Website)](https://pwn.college/)
+
 
 ---
 
@@ -92,6 +99,10 @@ You need to study and create your own simple operating system.
  **Professional community recommends reading here**  
 [osdev](https://wiki.osdev.org/Expanded_Main_Page)
 
+
+ **Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)**  
+[coursera.org](https://www.coursera.org/learn/build-a-computerhttps://wiki.osdev.org/Expanded_Main_Page)
+
 ---
 
 ##  Step 6: Modify Linux kernel code
@@ -115,4 +126,25 @@ You should learn to modify Linux kernel code.
 
 Participants are given a series of tasks of increasing difficulty related to core development.
  **The Eudyptula Challenge**  
-[ The Eudyptula Challenge](http://eudyptula-challenge.org/)
+[ The Eudyptula Challenge](http://eudyptula-challenge.org/)"
+
+
+ **New ways to create models in Linux**  
+[ What's next step?! ](https://github.com/cirosantilli/linux-kernel-module-cheat/issues/141)"
+
+
+---
+
+
+##  Step 8:Important skills 
+
+ **Vim Will Actually Change Your Life.**[ Video ](https://www.youtube.com/watch?v=ST7vnfKjfvY)"
+
+Skills that help you be more productive and enjoy work
+ **Vim Meetups**[ Course ](https://www.youtube.com/playlist?list=PL8tzorAO7s0jy7DQ3Q0FwF3BnXGQnDirs)"
+
+
+ **Algorithms analysis & Design course - Dr.Ahmed Salah Vim Will Actually Change Your Life**[ Course ](https://www.youtube.com/playlist?list=PLJy_Searp12mIkGlnuJLFGPpGeFE2G3_Y)"
+
+
+ **Computer Organization and design**[ Video ](https://www.youtube.com/playlist?list=PLRlW03129fyy2uVqK0kqnA6ehJN_XDLhz)"
