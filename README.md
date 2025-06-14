@@ -85,70 +85,61 @@ You need to learn the assembly language to understand the applications included 
 [Professional Assembly Language Book](https://www.amazon.com/Professional-Assembly-Language-Richard-Blum/dp/0764579010)
 
 ---
-##  Step 5: Type your operating system
+## Step 5: Type Your Operating System
 
-You need to study and create your own simple operating system.
+Learn how operating systems work by building a simple one from scratch.
 
- **AWrite your own Operating System**  
-[View the Course ](https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M)
+- **[Write Your Own Operating System](https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M)** – A full video course on creating your own basic OS.
 
- **A great person writing an operating system learns**  
-[Queso Fuego](https://www.youtube.com/playlist?list=PLT7NbkyNWaqajsw8Xh7SP9KJwjfpP8TNX)
- 
- 
- **Professional community recommends reading here**  
-[osdev](https://wiki.osdev.org/Expanded_Main_Page)
+- **[Queso Fuego – OS Development Series](https://www.youtube.com/playlist?list=PLT7NbkyNWaqajsw8Xh7SP9KJwjfpP8TNX)** – A developer shares their journey building an OS from scratch.
 
+- **[OSDev Wiki](https://wiki.osdev.org/Expanded_Main_Page)** – A comprehensive resource hub recommended by professionals for learning OS development.
 
- **Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)**  
-[coursera.org](https://www.coursera.org/learn/build-a-computerhttps://wiki.osdev.org/Expanded_Main_Page)
+- **[Build a Modern Computer from First Principles (Nand to Tetris)](https://www.coursera.org/learn/build-a-computer)** – A Coursera course that teaches how to build a computer system from logic gates to software.
 
 ---
 
-##  Step 6: Modify Linux kernel code
+## Step 6: Modify Linux Kernel Code
 
-You should learn to modify Linux kernel code.
+Learn how to read, understand, and modify Linux kernel source code using the following resources:
 
- **The Kernelnewbies Archives**  
-[ ](https://lists.kernelnewbies.org/pipermail/kernelnewbies/)
- **Writing Models**  
-[ Linux Device Drivers, Third Edition](https://lwn.net/Kernel/LDD3/)
- **Learn Linux practically**  
-[Linux Kernel Development](https://www.amazon.com/Linux-Kernel-Development-Robert-Love/dp/0672329468)
- **Follow Robert Love's questions**  
-[Robert Love](https://www.quora.com/profile/Robert-Love-1)
- **Old but useful resource for writing kernels**  
-[ The Linux Kernel Module Programming Guide](https://tldp.org/LDP/lkmpg/2.6/html/index.html)
+- **[The Kernelnewbies Archives](https://lists.kernelnewbies.org/pipermail/kernelnewbies/)** – Community discussions and Q&A for new kernel developers.
 
+- **[Linux Device Drivers, Third Edition](https://lwn.net/Kernel/LDD3/)** – A foundational guide for writing device drivers and kernel modules.
 
----
-##  Step 7: Challenges in the kernel
+- **[Linux Kernel Development (Book by Robert Love)](https://www.amazon.com/Linux-Kernel-Development-Robert-Love/dp/0672329468)** – Practical guide for learning Linux kernel internals.
 
-Participants are given a series of tasks of increasing difficulty related to core development.
- **The Eudyptula Challenge**  
-[ The Eudyptula Challenge](http://eudyptula-challenge.org/)"
+- **[Robert Love on Quora](https://www.quora.com/profile/Robert-Love-1)** – Follow kernel expert Robert Love’s answers and insights.
 
-
- **New ways to create models in Linux**  
-[ What's next step?! ](https://github.com/cirosantilli/linux-kernel-module-cheat/issues/141)"
+- **[The Linux Kernel Module Programming Guide](https://tldp.org/LDP/lkmpg/2.6/html/index.html)** – A classic but still useful resource for writing kernel modules.
 
 
 ---
+## Step 7: Challenges in the Kernel
 
+Explore hands-on tasks that deepen your understanding of Linux kernel development.
 
-##  Step 8:Important skills 
+- **[The Eudyptula Challenge](http://eudyptula-challenge.org/)** – A well-known series of progressively difficult kernel development tasks.
 
- **Vim Will Actually Change Your Life.**[ Video ](https://www.youtube.com/watch?v=ST7vnfKjfvY)"
+- **[New Ways to Create Models in Linux](https://github.com/cirosantilli/linux-kernel-module-cheat/issues/141)** – Discussion on future directions and new approaches in kernel module modeling.
 
-Skills that help you be more productive and enjoy work
- **Vim Meetups**[ Course ](https://www.youtube.com/playlist?list=PL8tzorAO7s0jy7DQ3Q0FwF3BnXGQnDirs)"
+---
 
+## Step 8: Important Skills
 
- **Algorithms analysis & Design course - Dr.Ahmed Salah Vim Will Actually Change Your Life**[ Course ](https://www.youtube.com/playlist?list=PLJy_Searp12mIkGlnuJLFGPpGeFE2G3_Y)"
+Boost your productivity and technical skills with the following resources:
 
+### Vim
 
- **Computer Organization and design**[ Video ](https://www.youtube.com/playlist?list=PLRlW03129fyy2uVqK0kqnA6ehJN_XDLhz)"
+- [Vim Will Actually Change Your Life](https://www.youtube.com/watch?v=ST7vnfKjfvY) – Introduction to why Vim is powerful.  
+- [Vim Meetups (Course)](https://www.youtube.com/playlist?list=PL8tzorAO7s0jy7DQ3Q0FwF3BnXGQnDirs) – Learn Vim through real examples.
 
+### Computer Science
 
- **Learn Terminal Multiplexer**[ tmux ](https://www.youtube.com/watch?v=nTqu6w2wc68)"
- 
+- [Algorithms - Dr. Ahmed Salah](https://www.youtube.com/playlist?list=PLJy_Searp12mIkGlnuJLFGPpGeFE2G3_Y) – Analysis and design of algorithms.  
+- [Computer Organization and Design](https://www.youtube.com/playlist?list=PLRlW03129fyy2uVqK0kqnA6ehJN_XDLhz) – Understand how computers work at the hardware level.
+
+### Productivity Tools
+
+- [Learn tmux](https://www.youtube.com/watch?v=nTqu6w2wc68) – Manage terminal sessions like a pro.
+
