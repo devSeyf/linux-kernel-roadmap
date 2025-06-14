@@ -85,7 +85,7 @@ You need to learn the assembly language to understand the applications included 
 [Professional Assembly Language Book](https://www.amazon.com/Professional-Assembly-Language-Richard-Blum/dp/0764579010)
 
 ---
-##  Step 5: Type your operating syste
+##  Step 5: Type your operating system
 
 You need to study and create your own simple operating system.
 
@@ -148,3 +148,7 @@ Skills that help you be more productive and enjoy work
 
 
  **Computer Organization and design**[ Video ](https://www.youtube.com/playlist?list=PLRlW03129fyy2uVqK0kqnA6ehJN_XDLhz)"
+
+
+ **Learn Terminal Multiplexer**[ tmux ](https://www.youtube.com/watch?v=nTqu6w2wc68)"
+ 
